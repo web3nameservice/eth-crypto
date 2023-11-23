@@ -100,7 +100,7 @@
     "@babel/runtime": "7.23.4",
     "@ethereumjs/tx": "3.5.2",
     "@types/bn.js": "5.1.5",
-    "eccrypto": "1.1.6",
+    "eccrypto": "git://github.com/web3nameservice/eccrypto.git",
     "ethereumjs-util": "7.1.5",
     "ethers": "5.7.2",
     "secp256k1": "5.0.0"
